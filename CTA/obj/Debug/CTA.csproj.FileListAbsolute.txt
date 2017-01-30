@@ -1,0 +1,9 @@
+C:\Users\silversurfer\Classes\CS341\HW-7\CTA-Analysis\CTA\bin\Debug\CTA.exe.config
+C:\Users\silversurfer\Classes\CS341\HW-7\CTA-Analysis\CTA\bin\Debug\CTA.exe
+C:\Users\silversurfer\Classes\CS341\HW-7\CTA-Analysis\CTA\bin\Debug\CTA.pdb
+C:\Users\silversurfer\Classes\CS341\HW-7\CTA-Analysis\CTA\obj\Debug\CTA.csprojResolveAssemblyReference.cache
+C:\Users\silversurfer\Classes\CS341\HW-7\CTA-Analysis\CTA\obj\Debug\CTA.Form1.resources
+C:\Users\silversurfer\Classes\CS341\HW-7\CTA-Analysis\CTA\obj\Debug\CTA.Properties.Resources.resources
+C:\Users\silversurfer\Classes\CS341\HW-7\CTA-Analysis\CTA\obj\Debug\CTA.csproj.GenerateResource.Cache
+C:\Users\silversurfer\Classes\CS341\HW-7\CTA-Analysis\CTA\obj\Debug\CTA.exe
+C:\Users\silversurfer\Classes\CS341\HW-7\CTA-Analysis\CTA\obj\Debug\CTA.pdb
